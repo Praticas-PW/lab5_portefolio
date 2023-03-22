@@ -1,0 +1,19 @@
+Mandatory:
+	-> Darkmode button
+	-> Create a calculator
+	-> Show a image, and the user rights some text about the image
+	-> Ask the user forhis name and right it on 3 diferent places
+	-> Use the Date() method to show on the website the date
+	-> use onmouseover and onmouseout
+
+
+Ideas:
+	Front page:
+		-> backbround foto of something that i like (or several fothos that swipe betwinth theirselfs)
+		-> A picture of me (in a circle, a liltle bit tilted to the left or right)
+		-> Show a list of my hobbies whit emotes
+		->
+
+
+
+
