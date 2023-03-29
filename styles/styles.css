@@ -1,8 +1,8 @@
 *{
     font-family: 'Ubuntu', sans-serif;
     box-sizing: border-box;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 0;
+    padding-right: 0;
     margin: 0;
 }
 
@@ -69,8 +69,8 @@
     border-radius: 100px;
     overflow: hidden;
     position: absolute;
-    top: 00px;
-    right: 00px;
+    top: 100px;
+    right: 200px;
 }
 
 .circle img{
@@ -83,9 +83,9 @@
 
 .text_over_banner{
     position: absolute;
-    top: 400px;
-    right: 3500px;
+    top: 300px;
+    right: 150px;
     color: lightskyblue;
-    font-size: 10px;
+    font-size: 30px;
     
 }
