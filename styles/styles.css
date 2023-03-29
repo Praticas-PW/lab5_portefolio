@@ -83,8 +83,18 @@
 
 .text_over_banner{
     position: absolute;
+    top: 340px;
+    right: 160px;
+    color: lightskyblue;
+    font-size: 30px;
+    
+}
+
+
+.name{
+    position: absolute;
     top: 300px;
-    right: 150px;
+    right:  210px;
     color: lightskyblue;
     font-size: 30px;
     
