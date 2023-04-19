@@ -1,0 +1,13 @@
+
+
+
+
+.numbers_container{
+    
+    display: flex;
+    top: 10vh;
+    flex-flow: row wrap;
+    justify-content: space-around; 
+    background-color: red;
+    /*width: 50vh;*/
+}
