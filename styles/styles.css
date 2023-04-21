@@ -86,10 +86,7 @@ html{
     background: #888;
     border-radius: 100px;
     overflow: hidden;
-    /* position: absolute; */
-    
-    
-    
+    justify-content: space-around;
     
 }
 
@@ -116,7 +113,9 @@ html{
     width: 800px;
 }
 
-
+#barreira_about_me{
+    display: flex;
+}
 
 
 
@@ -135,10 +134,16 @@ html{
     /* text-align: center; */
     display: flex;
     align-items: center;
-    padding: 2%;
+    padding: 4%;
 }
 
 
 .about_me{
     line-height: 2;
+    font-size: 20px;
+}
+
+#contact{
+    position: relative;
+    /* top: px; */
 }
