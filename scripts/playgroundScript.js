@@ -1,13 +1,5 @@
-const toggle = document.getElementById('toggleDark');
-const body = document.querySelector('body');
 
-toggle.addEventListener('click', function(){
-    this.classList.toggle()
-});
-
-document.getElementById('actual_date').innerHTML = Date();
-
-var temp = 0;
+document.getElementById('actual_date').innerHTML =Date();
 
 
 
@@ -60,9 +52,12 @@ document.getElementById('nameButtom').onclick = function(){
 
 
     document.getElementById('nameTextBox').value = "";
-
-
 }
 
 
-
+// // // const hdr = document.querySelector('body.hdr');
+// // // const toggle = document.getElementById('toggle');
+// // // toggle.onclick = function(){
+// // //     toggle.classList.toggle('active');
+// // //     hdr.classList.toggle('active');
+// // // }
