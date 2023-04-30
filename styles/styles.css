@@ -25,6 +25,14 @@ html{
     opacity: 0.7;
 }
 
+.hdrDarlk{
+    background: grey;
+}
+
+.hdrDarlk a{
+    color: white;
+}
+
 
 .nav{
     display: flex;
@@ -51,6 +59,7 @@ html{
 
 
 .hdr a:hover{
+    
     color: black;
 	font-weight: bold;
 }
@@ -79,8 +88,10 @@ html{
     padding: 2%;
 }
 
-.darkMode .my_container{
+.my_containerDark{
+    background-color: rgb(80, 78, 75);
 }
+
 
 
 .my_container_skills{
@@ -96,6 +107,10 @@ html{
     align-items: center;
     font-size: 17px;
     padding: 2%;
+}
+
+.my_container_skills_dark{
+    background-color: rgb(80, 78, 75);
 }
 
 
@@ -134,6 +149,10 @@ html{
     
 }
 
+.nameDark{
+    color: grey;
+}
+
 .barreira{
     width: 800px;
 }
@@ -161,6 +180,12 @@ html{
     display: flex;
     align-items: center;
     padding: 4%;
+}
+
+
+.about_me_container_dark{
+    background-color: grey;
+
 }
 
 
@@ -201,6 +226,10 @@ html{
     .my_container_skills{
         font-size: 10px;
     }
+
+
+
+    
 }
 
 
